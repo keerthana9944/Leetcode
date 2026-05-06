@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/keerthana9944/Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keerthana9944/Leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/keerthana9944/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
