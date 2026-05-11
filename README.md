@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/keerthana9944/Leetcode/tree/master/0001-two-sum) |
+| [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -67,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana9944/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
