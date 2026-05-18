@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/keerthana9944/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/keerthana9944/Leetcode/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
