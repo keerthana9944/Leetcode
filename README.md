@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/keerthana9944/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/keerthana9944/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/keerthana9944/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana9944/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana9944/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/keerthana9944/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 ## Bit Manipulation
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
