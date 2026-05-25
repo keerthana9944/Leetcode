@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/keerthana9944/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana9944/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
