@@ -1,29 +1,28 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        int x = 0;
-        long sum = 0;
-        int dup = n;
-        int revNum = 0;
-        while(n>0){
-            int ld = n%10;
-            sum += ld;
-            n/=10;
+
+        if(n==0){
+            return 0;
         }
 
+        int sum = 0;
+        int dup = n;
+        String s = String.valueOf(n);
+
+        StringBuilder x = new StringBuilder();
+        for(char c : s.toCharArray()){
+            if(c != '0'){
+                x.append(c);
+            }
+        }
         while(dup>0){
             int ld = dup%10;
-            if(ld!=0){
-                revNum = revNum*10+ld;
-            }
-            dup/=10;
-        }
-        
-        while(revNum>0){
-            x = x*10 + revNum%10;
-            revNum /= 10;
+            sum += ld;
+            dup /= 10;
         }
 
-        return x*sum;
-        
+        long num = Long.parseLong(x.toString());
+        return num*sum;
+
     }
 }
