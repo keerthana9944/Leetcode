@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/keerthana9944/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keerthana9944/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/keerthana9944/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keerthana9944/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/keerthana9944/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/keerthana9944/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/keerthana9944/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/keerthana9944/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/keerthana9944/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/keerthana9944/Leetcode/tree/master/0509-fibonacci-number) |
