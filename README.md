@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/keerthana9944/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/keerthana9944/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/keerthana9944/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/keerthana9944/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
