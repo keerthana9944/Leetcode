@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/keerthana9944/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/keerthana9944/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/keerthana9944/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1470-shuffle-the-array](https://github.com/keerthana9944/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthana9944/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/keerthana9944/Leetcode/tree/master/0258-add-digits) |
+| [0946-validate-stack-sequences](https://github.com/keerthana9944/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/keerthana9944/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2460-apply-operations-to-an-array](https://github.com/keerthana9944/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/keerthana9944/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/keerthana9944/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0739-daily-temperatures](https://github.com/keerthana9944/Leetcode/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/keerthana9944/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keerthana9944/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthana9944/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
