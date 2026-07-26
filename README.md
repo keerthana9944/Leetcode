@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/keerthana9944/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/keerthana9944/Leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthana9944/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/keerthana9944/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/keerthana9944/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/keerthana9944/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/keerthana9944/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keerthana9944/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Union-Find
 |  |
 | ------- |
