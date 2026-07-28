@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keerthana9944/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/keerthana9944/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/keerthana9944/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Linked List
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
 | ------- |
