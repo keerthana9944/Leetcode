@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/keerthana9944/Leetcode/tree/master/2951-find-the-peaks) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/keerthana9944/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/keerthana9944/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [2460-apply-operations-to-an-array](https://github.com/keerthana9944/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/keerthana9944/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
