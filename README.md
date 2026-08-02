@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/keerthana9944/Leetcode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/keerthana9944/Leetcode/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/keerthana9944/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana9944/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/keerthana9944/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/keerthana9944/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/keerthana9944/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keerthana9944/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keerthana9944/Leetcode/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/keerthana9944/Leetcode/tree/master/2951-find-the-peaks) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
