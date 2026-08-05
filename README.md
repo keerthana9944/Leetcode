@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthana9944/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/keerthana9944/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthana9944/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthana9944/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/keerthana9944/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana9944/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2951-find-the-peaks](https://github.com/keerthana9944/Leetcode/tree/master/2951-find-the-peaks) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/keerthana9944/Leetcode/tree/master/0344-reverse-string) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthana9944/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/keerthana9944/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/keerthana9944/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthana9944/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/keerthana9944/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/keerthana9944/Leetcode/tree/master/3731-find-missing-elements) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/keerthana9944/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/keerthana9944/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthana9944/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Union-Find
 |  |
