@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/keerthana9944/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keerthana9944/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1512-number-of-good-pairs](https://github.com/keerthana9944/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/keerthana9944/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthana9944/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthana9944/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/keerthana9944/Leetcode/tree/master/0763-partition-labels) |
+| [1512-number-of-good-pairs](https://github.com/keerthana9944/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/keerthana9944/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/keerthana9944/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/keerthana9944/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/keerthana9944/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/keerthana9944/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/keerthana9944/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/keerthana9944/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/keerthana9944/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
