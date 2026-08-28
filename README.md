@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/keerthana9944/Leetcode/tree/master/0994-rotting-oranges) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/keerthana9944/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/keerthana9944/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/keerthana9944/Leetcode/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/keerthana9944/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/keerthana9944/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/keerthana9944/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/keerthana9944/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/keerthana9944/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/keerthana9944/Leetcode/tree/master/1051-height-checker) |
 | [1512-number-of-good-pairs](https://github.com/keerthana9944/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keerthana9944/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
@@ -360,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/keerthana9944/Leetcode/tree/master/1927-sum-game) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/keerthana9944/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
