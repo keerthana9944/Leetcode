@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/keerthana9944/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/keerthana9944/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/keerthana9944/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3903-smallest-stable-index-i](https://github.com/keerthana9944/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/keerthana9944/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/keerthana9944/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/keerthana9944/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
