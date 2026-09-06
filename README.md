@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/keerthana9944/Leetcode/tree/master/1051-height-checker) |
 ## Prefix Sum
 |  |
@@ -387,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/keerthana9944/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
