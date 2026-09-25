@@ -1,18 +1,27 @@
 class Solution {
+    public int solve(int n, int[] dp){
+        if(n==0){
+            return 1;
+        }
+
+        if(n<0){
+            return 0;
+        }
+
+        if(dp[n] != -1){
+            return dp[n];
+        }
+
+        int first = solve(n-1, dp);
+        int sec = solve(n-2, dp);
+
+        dp[n] = first+sec;
+
+        return dp[n];
+    }
     public int climbStairs(int n) {
-        if(n<=2){
-            return n;
-        }
-
-        int first = 1;
-        int sec = 2;
-
-        for(int i=3; i<=n; i++){
-            int curr = first+sec;
-            first = sec;
-            sec = curr;
-        }
-
-        return sec;
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+        return solve(n, dp);
     }
 }
