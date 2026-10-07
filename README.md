@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/keerthana9944/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/keerthana9944/Leetcode/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/keerthana9944/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/keerthana9944/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/keerthana9944/Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/keerthana9944/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/keerthana9944/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
