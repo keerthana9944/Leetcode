@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/keerthana9944/Leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/keerthana9944/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/keerthana9944/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/keerthana9944/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/keerthana9944/Leetcode/tree/master/0179-largest-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/keerthana9944/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/keerthana9944/Leetcode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/keerthana9944/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/keerthana9944/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/keerthana9944/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/keerthana9944/Leetcode/tree/master/0509-fibonacci-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/keerthana9944/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
