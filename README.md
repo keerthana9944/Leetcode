@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/keerthana9944/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/keerthana9944/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/keerthana9944/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/keerthana9944/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/keerthana9944/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0283-move-zeroes) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/keerthana9944/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthana9944/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/keerthana9944/Leetcode/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/keerthana9944/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
