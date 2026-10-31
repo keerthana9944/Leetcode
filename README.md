@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/keerthana9944/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/keerthana9944/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/keerthana9944/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/keerthana9944/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/keerthana9944/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/keerthana9944/Leetcode/tree/master/0506-relative-ranks) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/keerthana9944/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/keerthana9944/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/keerthana9944/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthana9944/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/keerthana9944/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/keerthana9944/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/keerthana9944/Leetcode/tree/master/0263-ugly-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/keerthana9944/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/keerthana9944/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/keerthana9944/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana9944/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/keerthana9944/Leetcode/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/keerthana9944/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/keerthana9944/Leetcode/tree/master/0706-design-hashmap) |
 ## Depth-First Search
 |  |
@@ -554,4 +558,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keerthana9944/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/keerthana9944/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
