@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/keerthana9944/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/keerthana9944/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/keerthana9944/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/keerthana9944/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/keerthana9944/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/keerthana9944/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/keerthana9944/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/keerthana9944/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/keerthana9944/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/keerthana9944/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/keerthana9944/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/keerthana9944/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/keerthana9944/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/keerthana9944/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/keerthana9944/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/keerthana9944/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keerthana9944/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
