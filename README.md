@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/keerthana9944/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/keerthana9944/Leetcode/tree/master/0041-first-missing-positive) |
 | [0047-permutations-ii](https://github.com/keerthana9944/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/keerthana9944/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keerthana9944/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/keerthana9944/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/keerthana9944/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/keerthana9944/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/keerthana9944/Leetcode/tree/master/0070-climbing-stairs) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/keerthana9944/Leetcode/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/keerthana9944/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/keerthana9944/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana9944/Leetcode/tree/master/2643-row-with-maximum-ones) |
