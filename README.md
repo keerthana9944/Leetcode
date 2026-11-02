@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/keerthana9944/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/keerthana9944/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/keerthana9944/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/keerthana9944/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/keerthana9944/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana9944/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/keerthana9944/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keerthana9944/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthana9944/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/keerthana9944/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/keerthana9944/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/keerthana9944/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/keerthana9944/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/keerthana9944/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/keerthana9944/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/keerthana9944/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana9944/Leetcode/tree/master/2643-row-with-maximum-ones) |
